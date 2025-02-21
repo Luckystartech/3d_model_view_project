@@ -61,8 +61,8 @@ class _HomeScreenState extends State<HomeScreen> {
                       child: const Text('talk')),
                   ElevatedButton(
                       onPressed: () {
-                        _controller1.resetAnimation();
-                        _controller2.resetAnimation();
+                        _controller1.stopAnimation();
+                        _controller2.stopAnimation();
                       },
                       child: const Text('stop')),
                 ],
