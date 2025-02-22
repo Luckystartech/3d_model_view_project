@@ -1,0 +1,1 @@
+/Users/Lucky/Documents/mobileapp/hng/3D_model_app/model_viewer_app/build/app/intermediates/cxx/RelWithDebInfo/3q646u1z/obj/arm64-v8a

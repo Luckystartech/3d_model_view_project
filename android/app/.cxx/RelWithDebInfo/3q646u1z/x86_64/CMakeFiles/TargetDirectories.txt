@@ -1,0 +1,2 @@
+/Users/Lucky/Documents/mobileapp/hng/3D_model_app/model_viewer_app/android/app/.cxx/RelWithDebInfo/3q646u1z/x86_64/CMakeFiles/edit_cache.dir
+/Users/Lucky/Documents/mobileapp/hng/3D_model_app/model_viewer_app/android/app/.cxx/RelWithDebInfo/3q646u1z/x86_64/CMakeFiles/rebuild_cache.dir
